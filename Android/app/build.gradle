@@ -101,4 +101,5 @@ dependencies {
     implementation 'com.facebook.fresco:webpsupport:1.10.0'
     implementation 'com.facebook.fresco:animated-webp:1.10.0'
     implementation 'com.facebook.fresco:webpsupport:1.10.0'
+    implementation 'com.google.android.gms:play-services-ads:17.1.1'
 }

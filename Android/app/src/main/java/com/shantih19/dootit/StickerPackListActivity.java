@@ -19,6 +19,7 @@ import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 import android.widget.Toast;
 
+
 import java.lang.ref.WeakReference;
 import java.util.ArrayList;
 import java.util.List;
@@ -33,6 +34,7 @@ public class StickerPackListActivity extends BaseActivity {
     private StickerPackListAdapter allStickerPacksListAdapter;
     WhiteListCheckAsyncTask whiteListCheckAsyncTask;
     ArrayList<StickerPack> stickerPackList;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
